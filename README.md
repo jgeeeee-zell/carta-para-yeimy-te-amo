@@ -20,7 +20,7 @@
 <body>
   <div class="carta">
     <h1>Te amo muchísimo pou, [yeimy]</h1>
-    <p> espero nuestro amor sea eterno y aue nadie lo pueda apagar, ni tampoco nada, horneamos momazos?.</p>
+    <p> espero nuestro amor sea eterno y que nadie lo pueda apagar, ni tampoco nada, horneamos momazos?.</p>
     <p>En tu ausencia no se dónde ir, en tu presencia se donde quedarme.</p>
     <p> queres ser mi skibidi toilet?.</p>
   </div>
